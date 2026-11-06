@@ -1,88 +1,242 @@
-# Sales-Performance-Dashboard
-End-to-end sales analysis project using Excel, SQL, and Power BI.
 # 📊 Sales Performance Dashboard
+### End-to-End Data Analytics Project | Excel • MySQL • Power BI
 
-An end-to-end sales analysis project using **Microsoft Excel, MySQL, and Power BI** to analyze sales performance, profitability, customer segments, product categories, and regional trends.
+An end-to-end data analytics project focused on analyzing sales performance, profitability, regional trends, product categories, and sales channels using Microsoft Excel, MySQL, and Power BI.
+
+---
 
 ## 📌 Project Overview
 
-This project analyzes a sales dataset containing **150 orders** across different regions, product categories, and sales channels during 2025.
+The **Sales Performance Dashboard** project analyzes a sample sales dataset containing 150 orders recorded during 2025.
 
-The objective is to transform raw sales data into meaningful business insights using Excel, SQL, and an interactive Power BI dashboard.
+The project follows an end-to-end data analytics workflow, starting with dataset exploration and validation, followed by SQL-based business analysis and interactive dashboard development in Power BI.
+
+The main objective is to transform raw sales data into meaningful business insights that can support data-driven decision-making.
+
+## 🎯 Project Objectives
+
+- Analyze overall sales and profit performance.
+- Identify monthly sales trends and patterns.
+- Compare sales performance across different regions.
+- Evaluate product category profitability.
+- Analyze sales contribution by sales channel.
+- Understand customer segment performance.
+- Build an interactive dashboard for business reporting.
+- Perform data quality and reconciliation checks using SQL.
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Excel** – Dataset management and KPI calculations
-- **MySQL 8.4** – Data storage and SQL-based business analysis
-- **Power BI Desktop** – Interactive dashboard and data visualization
-- **GitHub** – Project documentation and version control
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Dataset exploration, data validation, calculations, and KPI analysis |
+| MySQL 8.4 | Data storage, SQL queries, and business analysis |
+| Power BI Desktop | Interactive dashboard and data visualization |
+| GitHub | Project documentation and version control |
 
-## 📂 Project Structure
+## 📂 Repository Structure
+
+All project files are available in the repository's root directory.
 
 ```text
 Sales-Performance-Dashboard/
 │
-├── Dataset/
-│   └── Sales_Performance_Dashboard_Dataset.xlsx
+├── README.md
 │
-├── SQL/
-│   ├── Sales_Performance_Dashboard_Dataset.csv
-│   └── Sales_Analysis_Queries.sql
+├── Sales_Performance_Dashboard_Dataset.xlsx
 │
-├── Sales_Performance_Dashboard.pbix
+├── Sales_Performance_Dashboard_Dataset.csv
 │
-└── README.md
+├── Sales_Analysis_Queries.sql
+│
+└── Sales_Performance_Dashboard.pbix
 ```
+
+## 📁 Dataset Description
+
+The project dataset contains order-level sales information for the year 2025.
+
+| Dataset Attribute | Details |
+|---|---|
+| Total Records | 150 Orders |
+| Reporting Period | January – December 2025 |
+| Currency | Indian Rupee (INR) |
+| Data Format | XLSX and CSV |
+| Data Granularity | Individual Order |
+| Primary Identifier | Order_ID |
+
+### Key Dataset Columns
+
+- **Order Details:** Order_ID, Order_Date
+- **Customer Information:** Customer_ID, Customer_Segment
+- **Geographical Information:** Region, State, City
+- **Sales Information:** Sales_Channel, Category, Sub_Category, Product
+- **Quantity and Pricing:** Quantity, Unit_Price_INR, Discount_Pct
+- **Financial Metrics:** Sales_INR, Cost_INR, Profit_INR
+- **Validation Fields:** Profit_Check, Sales_Check, Sales_Difference
+
+The accompanying dataset includes a Data Dictionary explaining the columns and their meanings.
 
 ## 📈 Key Performance Indicators (KPIs)
 
-| Metric | Result |
+The Power BI dashboard presents the following overall business metrics:
+
+| KPI | Result |
 |---|---:|
 | Total Sales | ₹26,85,117.85 |
 | Total Profit | ₹4,97,340.13 |
 | Total Orders | 150 |
-| Total Quantity Sold | 606 |
+| Total Units Sold | 606 |
 | Average Order Value | ₹17,900.79 |
 | Profit Margin | 18.52% |
 
+### KPI Calculations
+
+- **Total Sales:** Sum of all net sales.
+- **Total Profit:** Sum of order-level profit.
+- **Total Orders:** Count of unique orders.
+- **Total Units Sold:** Sum of purchased quantities.
+- **Average Order Value:** Total Sales / Total Orders.
+- **Profit Margin:** (Total Profit / Total Sales) × 100.
+
 ## 📊 Power BI Dashboard
 
-The interactive dashboard includes four visualizations:
+The interactive dashboard includes five KPI cards and four business visualizations.
 
-1. **Monthly Sales Trend** – Monthly sales performance throughout the year.
-2. **Sales by Region** – Comparison of sales across North, South, East, and West regions.
-3. **Profit by Category** – Profit comparison across Technology, Furniture, and Office Supplies.
-4. **Sales by Channel** – Sales distribution across Online, Retail Store, and Corporate Sales.
+### 1. Monthly Sales Trend
+A line chart showing monthly sales performance from January to December 2025.
 
-### Interactive Filters
+### 2. Sales by Region
+A horizontal bar chart comparing sales across:
+- North
+- South
+- East
+- West
 
-The dashboard includes four slicers:
+### 3. Profit by Category
+A column chart comparing profit generated by:
+- Technology
+- Furniture
+- Office Supplies
 
-- Region
-- Order Date
-- Product Category
-- Sales Channel
+### 4. Sales by Channel
+A donut chart showing the contribution of:
+- Online
+- Retail Store
+- Corporate Sales
 
-These filters allow users to explore sales performance dynamically.
+## 🎛️ Interactive Dashboard Filters
+
+The dashboard includes four interactive slicers:
+
+| Slicer | Function |
+|---|---|
+| Region | Filter sales by geographical region |
+| Order Date | Select a specific date range |
+| Category | Filter by product category |
+| Sales Channel | Filter by order sales channel |
+
+All KPI cards and visualizations respond dynamically to the selected filters.
 
 ## 🗄️ SQL Analysis
 
-The project includes 14 SQL business analysis queries covering:
+SQL analysis is performed using MySQL 8.4.
+
+The `Sales_Analysis_Queries.sql` file contains 14 business analysis queries covering:
 
 - Overall sales and profit performance
 - Monthly sales trends
-- Regional sales performance
-- Product category analysis
-- Sales channel performance
+- Regional sales comparison
+- Product category performance
+- Sales channel contribution
 - Customer segment analysis
 - Top-performing products
 - Order-level sales analysis
 - Data quality checks
-- Duplicate and missing value checks
+- Duplicate order identification
+- Missing value checks
 - Sales and profit reconciliation
+- Profitability analysis
+- Highest-value individual orders
 
-## 🔍 Business Insights
+These queries demonstrate the practical use of SQL for business analysis and data validation.
 
-- The project generated total sales of ₹26.85 lakh and total profit of approximately ₹4.97 lakh.
-- The overall profit margin was approximately 18.52%.
-- A
+## 🔍 Key Business Metrics & Findings
+
+Based on the overall dashboard results:
+
+1. The business generated total sales of approximately **₹26.85 lakh**.
+2. Total profit amounted to approximately **₹4.97 lakh**.
+3. The overall profit margin was **18.52%**.
+4. A total of **150 orders** contributed to **606 units sold**.
+5. Average Order Value was approximately **₹17,900.79**.
+
+The dashboard also enables further comparisons of monthly sales, regional performance, category profitability, and sales channel contribution.
+
+## ⚙️ Project Workflow
+
+1. **Dataset Exploration:** Reviewed the Excel dataset and Data Dictionary.
+2. **Data Validation:** Checked sales and profit calculations and identified rounding differences.
+3. **Database Creation:** Created the `sales_analysis` database in MySQL.
+4. **Data Import:** Imported 150 CSV records into the `sales_data` table.
+5. **SQL Analysis:** Executed 14 SQL queries to analyze business performance.
+6. **Dashboard Development:** Created five KPI cards, four charts, and four interactive slicers in Power BI.
+7. **Testing:** Verified dashboard filtering using Region, Category, and Sales Channel selections.
+8. **Documentation:** Organized the project files and documented the work on GitHub.
+
+## 🚀 How to Use This Project
+
+### Step 1: Download the Repository
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ujjwal-kumar12/Sales-Performance-Dashboard.git
+```
+
+### Step 2: Explore the Dataset
+
+Open `Sales_Performance_Dashboard_Dataset.xlsx` in Microsoft Excel or use the CSV file for database import.
+
+### Step 3: Set Up MySQL
+
+- Create a database named `sales_analysis`.
+- Create the `sales_data` table using the dataset structure.
+- Import the CSV dataset into the table.
+
+### Step 4: Execute SQL Queries
+
+Open `Sales_Analysis_Queries.sql` in MySQL Workbench and execute the queries to perform business analysis.
+
+### Step 5: Explore the Power BI Dashboard
+
+Open `Sales_Performance_Dashboard.pbix` using Power BI Desktop.
+
+Use the interactive slicers to explore sales performance across different business dimensions.
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning and Validation
+- Microsoft Excel
+- SQL Queries and Aggregations
+- MySQL Database Management
+- Business Data Analysis
+- KPI Development
+- Power BI Dashboard Development
+- Data Visualization
+- GitHub and Project Documentation
+
+## 👨‍💻 Author
+
+**Ujjwal Kumar**
+
+B.Tech – Computer Science & Engineering
+
+GitHub: [ujjwal-kumar12](https://github.com/ujjwal-kumar12)
+
+Project Repository: [Sales-Performance-Dashboard](https://github.com/ujjwal-kumar12/Sales-Performance-Dashboard)
+
+---
+
+⭐ If you find this project useful, consider giving this repository a star.
+
+**Thank you for visiting this project!**
