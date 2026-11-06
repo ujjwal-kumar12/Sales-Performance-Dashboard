@@ -1,0 +1,151 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,State,City,Sales_Channel,Category,Sub_Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Sales_INR,Cost_INR,Profit_INR
+ORD-1001,2025-11-24,CUST-1015,Consumer,West,Maharashtra,Mumbai,Online,Technology,Phones,Smartphone,4,18254.26,0,73017.04,52572.27,20444.77
+ORD-1002,2025-04-22,CUST-1030,Consumer,North,Uttarakhand,Dehradun,Retail Store,Office Supplies,Desk Supplies,Desk Organizer,4,332.73,0.05,1264.37,665.46,598.91
+ORD-1003,2025-01-04,CUST-1021,Small Business,West,Gujarat,Ahmedabad,Online,Technology,Computers,Laptop,1,51878.11,0.05,49284.2,44615.17,4669.03
+ORD-1004,2025-06-26,CUST-1078,Consumer,North,Uttarakhand,Haridwar,Retail Store,Furniture,Tables,Study Table,5,7117.62,0.1,32029.29,24911.67,7117.62
+ORD-1005,2025-07-05,CUST-1074,Consumer,North,Uttar Pradesh,Noida,Online,Technology,Computers,Laptop,2,64528.58,0.08,118732.59,110989.16,7743.43
+ORD-1006,2025-05-23,CUST-1059,Small Business,West,Gujarat,Surat,Online,Technology,Accessories,Power Bank,1,1691.87,0.02,1658.03,1015.12,642.91
+ORD-1007,2025-10-01,CUST-1032,Consumer,South,Karnataka,Bengaluru,Online,Office Supplies,Desk Supplies,Stapler,6,198.0,0.15,1009.8,534.6,475.2
+ORD-1008,2025-01-29,CUST-1030,Small Business,West,Gujarat,Ahmedabad,Online,Technology,Accessories,USB-C Cable,3,335.05,0.08,924.74,482.47,442.27
+ORD-1009,2025-07-22,CUST-1083,Consumer,West,Maharashtra,Mumbai,Online,Office Supplies,Desk Supplies,Desk Organizer,7,485.26,0.08,3125.07,1698.41,1426.66
+ORD-1010,2025-07-05,CUST-1029,Corporate,North,Delhi,New Delhi,Retail Store,Technology,Phones,Smartphone,2,23019.57,0.15,39133.27,33148.18,5985.09
+ORD-1011,2025-12-15,CUST-1055,Small Business,South,Karnataka,Bengaluru,Online,Office Supplies,Desk Supplies,Desk Organizer,1,411.3,0,411.3,205.65,205.65
+ORD-1012,2025-12-16,CUST-1069,Small Business,West,Gujarat,Ahmedabad,Online,Furniture,Tables,Study Table,5,7687.55,0.15,32672.09,26906.42,5765.67
+ORD-1013,2025-04-02,CUST-1065,Corporate,West,Maharashtra,Pune,Corporate Sales,Furniture,Chairs,Office Chair,6,8241.31,0.1,44503.07,33624.54,10878.53
+ORD-1014,2025-09-29,CUST-1001,Small Business,South,Kerala,Kochi,Online,Office Supplies,Writing,Ball Pen Pack,1,88.9,0.1,80.01,33.78,46.23
+ORD-1015,2025-02-10,CUST-1011,Small Business,North,Uttar Pradesh,Noida,Corporate Sales,Furniture,Chairs,Office Chair,8,9218.3,0.02,72271.47,50147.55,22123.92
+ORD-1016,2025-05-16,CUST-1068,Corporate,South,Telangana,Hyderabad,Corporate Sales,Office Supplies,Desk Supplies,Stapler,5,135.86,0.12,597.78,305.69,292.09
+ORD-1017,2025-11-29,CUST-1048,Consumer,East,West Bengal,Kolkata,Online,Technology,Phones,Feature Phone,1,2623.63,0.02,2571.16,2046.43,524.73
+ORD-1018,2025-10-29,CUST-1029,Consumer,North,Uttarakhand,Haridwar,Online,Office Supplies,Writing,Ball Pen Pack,4,93.42,0.08,343.79,142.0,201.79
+ORD-1019,2025-04-20,CUST-1070,Consumer,East,Odisha,Bhubaneswar,Retail Store,Technology,Computers,Keyboard,2,803.76,0.12,1414.62,996.66,417.96
+ORD-1020,2025-08-09,CUST-1046,Consumer,South,Tamil Nadu,Chennai,Corporate Sales,Technology,Accessories,USB-C Cable,1,274.25,0.12,241.34,131.64,109.7
+ORD-1021,2025-06-23,CUST-1014,Consumer,North,Rajasthan,Jaipur,Retail Store,Technology,Phones,Feature Phone,4,2149.73,0,8598.92,6707.16,1891.76
+ORD-1022,2025-08-15,CUST-1071,Consumer,East,Bihar,Patna,Corporate Sales,Office Supplies,Paper,A4 Paper Pack,7,317.13,0.02,2175.51,776.97,1398.54
+ORD-1023,2025-07-25,CUST-1008,Consumer,North,Uttarakhand,Dehradun,Corporate Sales,Technology,Computers,Keyboard,4,1466.25,0.12,5161.2,3636.3,1524.9
+ORD-1024,2025-10-12,CUST-1085,Small Business,North,Delhi,New Delhi,Online,Technology,Phones,Smartphone,3,18457.32,0.1,49834.76,39867.81,9966.95
+ORD-1025,2025-09-02,CUST-1065,Corporate,East,West Bengal,Kolkata,Online,Office Supplies,Paper,A4 Paper Pack,2,339.01,0.12,596.66,237.31,359.35
+ORD-1026,2025-05-01,CUST-1052,Consumer,East,Odisha,Bhubaneswar,Online,Furniture,Storage,Bookshelf,7,5035.07,0.1,31720.94,22204.66,9516.28
+ORD-1027,2025-09-25,CUST-1041,Corporate,North,Rajasthan,Jaipur,Retail Store,Technology,Computers,Keyboard,2,1438.86,0.05,2733.83,1784.19,949.64
+ORD-1028,2025-08-23,CUST-1041,Corporate,North,Uttar Pradesh,Noida,Online,Furniture,Storage,Bookshelf,2,4627.96,0.1,8330.33,5831.23,2499.1
+ORD-1029,2025-05-16,CUST-1017,Corporate,North,Uttar Pradesh,Noida,Corporate Sales,Furniture,Chairs,Visitor Chair,5,2701.02,0.15,11479.33,8643.26,2836.07
+ORD-1030,2025-12-01,CUST-1068,Consumer,East,Bihar,Patna,Online,Office Supplies,Paper,Notebook Set,2,337.94,0.12,594.77,270.35,324.42
+ORD-1031,2025-10-11,CUST-1020,Consumer,East,Assam,Guwahati,Online,Technology,Accessories,USB-C Cable,3,452.16,0.05,1288.66,651.11,637.55
+ORD-1032,2025-01-27,CUST-1012,Small Business,West,Maharashtra,Mumbai,Online,Technology,Phones,Feature Phone,2,2837.72,0.1,5107.9,4426.84,681.06
+ORD-1033,2025-12-28,CUST-1055,Small Business,North,Uttar Pradesh,Lucknow,Online,Office Supplies,Paper,A4 Paper Pack,6,336.5,0.02,1978.62,706.65,1271.97
+ORD-1034,2025-08-09,CUST-1017,Consumer,West,Gujarat,Surat,Corporate Sales,Office Supplies,Paper,Notebook Set,4,296.41,0.12,1043.36,474.26,569.1
+ORD-1035,2025-02-22,CUST-1046,Small Business,South,Telangana,Hyderabad,Corporate Sales,Office Supplies,Paper,A4 Paper Pack,3,396.28,0,1188.84,416.09,772.75
+ORD-1036,2025-04-02,CUST-1043,Small Business,South,Telangana,Hyderabad,Retail Store,Office Supplies,Paper,Notebook Set,3,317.47,0,952.41,380.96,571.45
+ORD-1037,2025-07-15,CUST-1005,Corporate,North,Chandigarh,Chandigarh,Online,Office Supplies,Writing,Marker Set,4,123.44,0.12,434.51,207.38,227.13
+ORD-1038,2025-04-09,CUST-1052,Consumer,North,Uttar Pradesh,Noida,Corporate Sales,Technology,Accessories,USB-C Cable,4,521.81,0.15,1774.15,1001.88,772.27
+ORD-1039,2025-10-02,CUST-1043,Corporate,North,Uttar Pradesh,Lucknow,Corporate Sales,Technology,Accessories,Power Bank,1,1040.92,0.08,957.65,624.55,333.1
+ORD-1040,2025-06-26,CUST-1041,Consumer,East,West Bengal,Kolkata,Online,Office Supplies,Paper,Notebook Set,1,301.76,0,301.76,120.7,181.06
+ORD-1041,2025-09-24,CUST-1069,Small Business,North,Rajasthan,Jaipur,Online,Technology,Accessories,Power Bank,3,1762.4,0,5287.2,3172.32,2114.88
+ORD-1042,2025-06-03,CUST-1065,Consumer,South,Telangana,Hyderabad,Online,Office Supplies,Desk Supplies,Stapler,4,138.86,0.08,511.0,249.95,261.05
+ORD-1043,2025-12-13,CUST-1023,Small Business,West,Maharashtra,Pune,Online,Office Supplies,Writing,Marker Set,4,154.48,0.1,556.13,259.53,296.6
+ORD-1044,2025-11-07,CUST-1084,Consumer,South,Tamil Nadu,Chennai,Online,Technology,Computers,Wireless Mouse,2,944.14,0.05,1793.87,1095.2,698.67
+ORD-1045,2025-09-21,CUST-1085,Small Business,West,Gujarat,Ahmedabad,Online,Office Supplies,Paper,Notebook Set,4,321.31,0.02,1259.54,514.1,745.44
+ORD-1046,2025-01-13,CUST-1006,Consumer,South,Kerala,Kochi,Retail Store,Office Supplies,Writing,Marker Set,4,197.75,0.08,727.72,332.22,395.5
+ORD-1047,2025-09-11,CUST-1052,Consumer,North,Uttarakhand,Dehradun,Corporate Sales,Office Supplies,Paper,Notebook Set,4,195.18,0.12,687.03,312.29,374.74
+ORD-1048,2025-09-23,CUST-1060,Consumer,North,Chandigarh,Chandigarh,Corporate Sales,Technology,Phones,Feature Phone,3,3130.06,0.08,8638.97,7324.34,1314.63
+ORD-1049,2025-11-10,CUST-1065,Consumer,East,Bihar,Patna,Online,Technology,Computers,Keyboard,3,1526.95,0.15,3893.72,2840.13,1053.59
+ORD-1050,2025-11-23,CUST-1036,Small Business,East,West Bengal,Kolkata,Retail Store,Technology,Computers,Laptop,3,48096.83,0.05,137075.97,124089.82,12986.15
+ORD-1051,2025-06-13,CUST-1070,Consumer,North,Delhi,New Delhi,Online,Office Supplies,Desk Supplies,Stapler,2,138.08,0.05,262.35,124.27,138.08
+ORD-1052,2025-10-05,CUST-1060,Consumer,North,Rajasthan,Jaipur,Corporate Sales,Furniture,Storage,Bookshelf,7,4421.73,0.05,29404.5,19499.83,9904.67
+ORD-1053,2025-06-02,CUST-1050,Corporate,South,Telangana,Hyderabad,Retail Store,Office Supplies,Desk Supplies,Stapler,8,110.72,0.08,814.9,398.59,416.31
+ORD-1054,2025-09-06,CUST-1004,Consumer,South,Karnataka,Bengaluru,Retail Store,Office Supplies,Paper,A4 Paper Pack,7,338.38,0.12,2084.42,829.03,1255.39
+ORD-1055,2025-01-14,CUST-1011,Small Business,North,Delhi,New Delhi,Corporate Sales,Technology,Computers,Keyboard,3,932.83,0.05,2658.57,1735.06,923.51
+ORD-1056,2025-06-22,CUST-1049,Consumer,South,Telangana,Hyderabad,Online,Technology,Phones,Smartphone,3,19793.78,0,59381.34,42754.56,16626.78
+ORD-1057,2025-11-30,CUST-1006,Small Business,North,Chandigarh,Chandigarh,Online,Technology,Phones,Smartphone,2,21788.49,0,43576.98,31375.43,12201.55
+ORD-1058,2025-10-16,CUST-1028,Consumer,West,Maharashtra,Mumbai,Retail Store,Technology,Accessories,USB-C Cable,1,561.12,0.02,549.9,269.34,280.56
+ORD-1059,2025-06-09,CUST-1014,Small Business,West,Maharashtra,Pune,Retail Store,Office Supplies,Writing,Marker Set,4,101.4,0.12,356.93,170.35,186.58
+ORD-1060,2025-11-18,CUST-1032,Consumer,West,Maharashtra,Pune,Corporate Sales,Furniture,Chairs,Office Chair,6,7023.55,0.12,37084.34,28656.08,8428.26
+ORD-1061,2025-07-09,CUST-1009,Consumer,West,Gujarat,Ahmedabad,Online,Furniture,Tables,Study Table,7,7643.15,0.12,47081.8,37451.43,9630.37
+ORD-1062,2025-08-24,CUST-1020,Consumer,East,West Bengal,Kolkata,Corporate Sales,Technology,Accessories,Power Bank,4,1466.25,0.12,5161.2,3519.0,1642.2
+ORD-1063,2025-10-31,CUST-1035,Consumer,North,Chandigarh,Chandigarh,Corporate Sales,Technology,Computers,Laptop,4,56816.09,0.12,199992.64,195447.35,4545.29
+ORD-1064,2025-07-14,CUST-1044,Consumer,West,Gujarat,Ahmedabad,Online,Technology,Computers,Keyboard,3,1668.35,0.12,4404.44,3103.13,1301.31
+ORD-1065,2025-05-22,CUST-1072,Consumer,North,Rajasthan,Jaipur,Online,Office Supplies,Writing,Ball Pen Pack,8,137.51,0.08,1012.07,418.03,594.04
+ORD-1066,2025-08-18,CUST-1003,Consumer,North,Chandigarh,Chandigarh,Online,Technology,Accessories,USB-C Cable,3,439.3,0.1,1186.11,632.59,553.52
+ORD-1067,2025-06-26,CUST-1055,Corporate,East,Bihar,Patna,Online,Office Supplies,Writing,Marker Set,5,124.58,0.12,548.15,261.62,286.53
+ORD-1068,2025-04-09,CUST-1041,Consumer,East,Bihar,Patna,Corporate Sales,Office Supplies,Paper,A4 Paper Pack,8,275.3,0.1,1982.16,770.84,1211.32
+ORD-1069,2025-09-26,CUST-1077,Consumer,North,Uttar Pradesh,Lucknow,Corporate Sales,Technology,Computers,Laptop,3,42367.86,0.1,114393.22,109309.08,5084.14
+ORD-1070,2025-03-06,CUST-1036,Consumer,North,Uttarakhand,Haridwar,Retail Store,Office Supplies,Paper,Notebook Set,2,334.54,0.1,602.17,267.63,334.54
+ORD-1071,2025-05-26,CUST-1061,Consumer,West,Gujarat,Ahmedabad,Online,Technology,Computers,Laptop,1,52418.39,0,52418.39,45079.82,7338.57
+ORD-1072,2025-10-23,CUST-1081,Small Business,North,Delhi,New Delhi,Online,Furniture,Tables,Study Table,4,4273.81,0.15,14530.95,11966.67,2564.28
+ORD-1073,2025-08-02,CUST-1078,Small Business,East,Assam,Guwahati,Online,Furniture,Tables,Office Desk,5,12951.25,0.08,59575.75,47919.62,11656.13
+ORD-1074,2025-06-06,CUST-1073,Small Business,East,Assam,Guwahati,Corporate Sales,Technology,Phones,Smartphone,3,23283.43,0.02,68453.28,50292.21,18161.07
+ORD-1075,2025-05-03,CUST-1023,Consumer,North,Haryana,Gurugram,Online,Furniture,Storage,Filing Cabinet,5,5350.14,0.05,25413.17,17655.46,7757.71
+ORD-1076,2025-12-28,CUST-1037,Small Business,South,Tamil Nadu,Chennai,Online,Technology,Computers,Wireless Mouse,2,768.85,0.1,1383.93,891.87,492.06
+ORD-1077,2025-04-26,CUST-1083,Consumer,West,Maharashtra,Mumbai,Corporate Sales,Technology,Phones,Feature Phone,3,2414.81,0.08,6664.88,5650.66,1014.22
+ORD-1078,2025-12-19,CUST-1039,Small Business,West,Maharashtra,Mumbai,Retail Store,Furniture,Chairs,Office Chair,7,8093.03,0.1,50986.09,38522.82,12463.27
+ORD-1079,2025-05-09,CUST-1004,Consumer,East,Odisha,Bhubaneswar,Retail Store,Technology,Accessories,Power Bank,1,1892.04,0.02,1854.2,1135.22,718.98
+ORD-1080,2025-08-29,CUST-1067,Small Business,West,Maharashtra,Mumbai,Online,Furniture,Storage,Filing Cabinet,2,7362.05,0.08,13546.17,9717.91,3828.26
+ORD-1081,2025-06-20,CUST-1042,Small Business,North,Haryana,Gurugram,Online,Office Supplies,Writing,Marker Set,1,158.22,0.05,150.31,66.45,83.86
+ORD-1082,2025-05-10,CUST-1042,Consumer,South,Karnataka,Bengaluru,Corporate Sales,Office Supplies,Paper,Notebook Set,7,170.84,0.1,1076.29,478.35,597.94
+ORD-1083,2025-07-05,CUST-1080,Small Business,South,Tamil Nadu,Chennai,Retail Store,Technology,Accessories,Headphones,3,2039.1,0.12,5383.22,3364.51,2018.71
+ORD-1084,2025-09-06,CUST-1016,Consumer,East,Assam,Guwahati,Retail Store,Office Supplies,Writing,Ball Pen Pack,7,71.19,0.15,423.58,189.37,234.21
+ORD-1085,2025-02-28,CUST-1060,Corporate,North,Delhi,New Delhi,Retail Store,Office Supplies,Desk Supplies,Desk Organizer,7,463.81,0.08,2986.94,1623.34,1363.6
+ORD-1086,2025-05-05,CUST-1059,Consumer,South,Karnataka,Bengaluru,Online,Furniture,Storage,Bookshelf,2,3739.24,0.15,6356.71,4711.44,1645.27
+ORD-1087,2025-08-01,CUST-1044,Corporate,East,West Bengal,Kolkata,Online,Technology,Accessories,Power Bank,4,2024.84,0.08,7451.41,4859.62,2591.79
+ORD-1088,2025-10-03,CUST-1062,Consumer,East,Bihar,Patna,Retail Store,Furniture,Tables,Study Table,4,6087.19,0.02,23861.78,17044.13,6817.65
+ORD-1089,2025-07-30,CUST-1006,Consumer,South,Kerala,Kochi,Retail Store,Office Supplies,Writing,Ball Pen Pack,8,175.78,0.02,1378.12,534.37,843.75
+ORD-1090,2025-09-15,CUST-1076,Consumer,North,Uttar Pradesh,Lucknow,Corporate Sales,Furniture,Storage,Filing Cabinet,1,8523.24,0.08,7841.38,5625.34,2216.04
+ORD-1091,2025-12-02,CUST-1020,Consumer,West,Maharashtra,Mumbai,Online,Office Supplies,Desk Supplies,Stapler,6,199.33,0.15,1016.58,538.19,478.39
+ORD-1092,2025-10-01,CUST-1049,Corporate,South,Kerala,Kochi,Corporate Sales,Technology,Phones,Smartphone,3,25979.41,0.12,68585.64,56115.53,12470.11
+ORD-1093,2025-02-16,CUST-1056,Corporate,North,Uttar Pradesh,Lucknow,Online,Office Supplies,Paper,A4 Paper Pack,6,379.23,0.05,2161.61,796.38,1365.23
+ORD-1094,2025-07-03,CUST-1048,Consumer,North,Chandigarh,Chandigarh,Retail Store,Furniture,Chairs,Office Chair,3,4618.53,0.15,11777.25,9421.8,2355.45
+ORD-1095,2025-07-15,CUST-1080,Small Business,South,Kerala,Kochi,Corporate Sales,Technology,Computers,Wireless Mouse,3,794.68,0.12,2097.96,1382.74,715.22
+ORD-1096,2025-01-05,CUST-1060,Corporate,East,Bihar,Patna,Online,Furniture,Tables,Office Desk,7,11677.35,0.08,75202.13,60488.67,14713.46
+ORD-1097,2025-06-04,CUST-1026,Corporate,South,Kerala,Kochi,Online,Furniture,Tables,Office Desk,5,6664.55,0.15,28324.34,24658.83,3665.51
+ORD-1098,2025-12-04,CUST-1051,Consumer,East,Odisha,Bhubaneswar,Corporate Sales,Office Supplies,Paper,Notebook Set,5,315.15,0.02,1544.23,630.3,913.93
+ORD-1099,2025-11-07,CUST-1046,Consumer,North,Rajasthan,Jaipur,Retail Store,Office Supplies,Desk Supplies,Stapler,2,206.48,0.12,363.4,185.83,177.57
+ORD-1100,2025-01-21,CUST-1040,Small Business,North,Uttarakhand,Haridwar,Retail Store,Office Supplies,Paper,Notebook Set,6,309.5,0.02,1819.86,742.8,1077.06
+ORD-1101,2025-04-13,CUST-1017,Small Business,West,Gujarat,Surat,Retail Store,Office Supplies,Paper,Notebook Set,8,353.48,0.05,2686.45,1131.14,1555.31
+ORD-1102,2025-06-23,CUST-1015,Consumer,North,Uttar Pradesh,Noida,Online,Office Supplies,Desk Supplies,Desk Organizer,6,210.7,0.08,1163.06,632.1,530.96
+ORD-1103,2025-01-08,CUST-1034,Consumer,South,Tamil Nadu,Chennai,Online,Office Supplies,Writing,Marker Set,6,106.25,0.02,624.75,267.75,357.0
+ORD-1104,2025-08-30,CUST-1004,Small Business,East,Bihar,Patna,Online,Furniture,Storage,Bookshelf,8,5891.92,0.05,44778.59,29695.28,15083.31
+ORD-1105,2025-11-29,CUST-1053,Consumer,North,Uttarakhand,Haridwar,Corporate Sales,Technology,Computers,Laptop,1,48104.8,0.1,43294.32,41370.13,1924.19
+ORD-1106,2025-03-11,CUST-1050,Consumer,East,Bihar,Patna,Online,Office Supplies,Paper,Notebook Set,2,326.74,0.1,588.13,261.39,326.74
+ORD-1107,2025-07-28,CUST-1036,Consumer,West,Gujarat,Surat,Online,Furniture,Chairs,Visitor Chair,2,3365.67,0.05,6394.77,4308.06,2086.71
+ORD-1108,2025-10-06,CUST-1083,Consumer,South,Karnataka,Bengaluru,Online,Office Supplies,Writing,Ball Pen Pack,4,137.0,0.1,493.2,208.24,284.96
+ORD-1109,2025-01-11,CUST-1007,Small Business,North,Chandigarh,Chandigarh,Corporate Sales,Office Supplies,Paper,A4 Paper Pack,4,337.28,0.15,1146.75,472.19,674.56
+ORD-1110,2025-04-30,CUST-1043,Small Business,East,Assam,Guwahati,Online,Office Supplies,Paper,A4 Paper Pack,5,379.7,0,1898.5,664.47,1234.03
+ORD-1111,2025-12-05,CUST-1004,Consumer,West,Gujarat,Surat,Retail Store,Technology,Computers,Laptop,2,48899.56,0.02,95843.14,84107.24,11735.9
+ORD-1112,2025-08-04,CUST-1068,Consumer,North,Uttar Pradesh,Noida,Online,Office Supplies,Desk Supplies,Stapler,8,150.54,0.1,1083.89,541.94,541.95
+ORD-1113,2025-01-23,CUST-1085,Consumer,South,Tamil Nadu,Chennai,Retail Store,Technology,Computers,Keyboard,4,1454.71,0.08,5353.33,3607.68,1745.65
+ORD-1114,2025-12-31,CUST-1057,Consumer,North,Uttar Pradesh,Noida,Online,Technology,Phones,Feature Phone,3,2333.27,0.1,6299.83,5459.85,839.98
+ORD-1115,2025-09-29,CUST-1038,Consumer,East,Assam,Guwahati,Online,Office Supplies,Paper,A4 Paper Pack,7,310.31,0.02,2128.73,760.26,1368.47
+ORD-1116,2025-07-31,CUST-1044,Small Business,South,Karnataka,Bengaluru,Online,Technology,Computers,Keyboard,3,1111.73,0.02,3268.49,2067.82,1200.67
+ORD-1117,2025-12-18,CUST-1061,Consumer,North,Uttar Pradesh,Noida,Online,Technology,Accessories,Power Bank,2,1623.28,0.1,2921.9,1947.94,973.96
+ORD-1118,2025-10-15,CUST-1072,Consumer,North,Uttar Pradesh,Lucknow,Online,Office Supplies,Writing,Ball Pen Pack,5,132.05,0.05,627.24,250.9,376.34
+ORD-1119,2025-02-23,CUST-1074,Consumer,North,Delhi,New Delhi,Retail Store,Technology,Phones,Feature Phone,3,1960.84,0.05,5588.39,4588.37,1000.02
+ORD-1120,2025-10-21,CUST-1029,Small Business,East,Bihar,Patna,Corporate Sales,Office Supplies,Desk Supplies,Stapler,5,84.05,0.05,399.24,189.11,210.13
+ORD-1121,2025-12-26,CUST-1040,Corporate,West,Gujarat,Surat,Online,Office Supplies,Desk Supplies,Desk Organizer,2,228.24,0.12,401.7,228.24,173.46
+ORD-1122,2025-01-16,CUST-1012,Small Business,North,Rajasthan,Jaipur,Online,Furniture,Chairs,Visitor Chair,5,2898.87,0.15,12320.2,9276.38,3043.82
+ORD-1123,2025-10-18,CUST-1077,Consumer,North,Uttarakhand,Haridwar,Online,Office Supplies,Paper,A4 Paper Pack,5,308.62,0.08,1419.65,540.08,879.57
+ORD-1124,2025-09-06,CUST-1078,Consumer,West,Maharashtra,Mumbai,Online,Furniture,Tables,Office Desk,2,8624.35,0.12,15178.86,12764.04,2414.82
+ORD-1125,2025-10-31,CUST-1063,Consumer,West,Maharashtra,Pune,Online,Furniture,Storage,Bookshelf,1,3495.04,0.02,3425.14,2201.88,1223.26
+ORD-1126,2025-03-12,CUST-1033,Consumer,North,Uttar Pradesh,Lucknow,Online,Office Supplies,Paper,A4 Paper Pack,7,326.52,0.02,2239.93,799.97,1439.96
+ORD-1127,2025-09-14,CUST-1072,Small Business,West,Gujarat,Surat,Online,Office Supplies,Paper,Notebook Set,1,251.95,0,251.95,100.78,151.17
+ORD-1128,2025-06-10,CUST-1074,Consumer,South,Karnataka,Bengaluru,Retail Store,Furniture,Chairs,Visitor Chair,1,3339.16,0.02,3272.38,2137.06,1135.32
+ORD-1129,2025-11-13,CUST-1059,Small Business,West,Gujarat,Surat,Online,Office Supplies,Paper,Notebook Set,7,264.79,0.08,1705.25,741.41,963.84
+ORD-1130,2025-06-08,CUST-1044,Consumer,North,Haryana,Gurugram,Online,Furniture,Storage,Bookshelf,6,3993.74,0.15,20368.07,15096.34,5271.73
+ORD-1131,2025-11-27,CUST-1019,Consumer,North,Delhi,New Delhi,Online,Technology,Phones,Smartphone,2,25610.34,0.12,45074.2,36878.89,8195.31
+ORD-1132,2025-09-10,CUST-1060,Small Business,East,Odisha,Bhubaneswar,Online,Office Supplies,Desk Supplies,Desk Organizer,6,231.33,0,1387.98,693.99,693.99
+ORD-1133,2025-08-29,CUST-1057,Small Business,West,Maharashtra,Mumbai,Retail Store,Technology,Phones,Feature Phone,4,2432.68,0,9730.72,7589.96,2140.76
+ORD-1134,2025-07-08,CUST-1037,Consumer,North,Uttar Pradesh,Noida,Retail Store,Furniture,Tables,Study Table,8,7436.2,0.1,53540.64,41642.72,11897.92
+ORD-1135,2025-11-30,CUST-1025,Consumer,South,Kerala,Kochi,Retail Store,Office Supplies,Writing,Ball Pen Pack,6,177.89,0,1067.34,405.59,661.75
+ORD-1136,2025-09-16,CUST-1083,Consumer,North,Chandigarh,Chandigarh,Retail Store,Office Supplies,Desk Supplies,Stapler,6,132.2,0.05,753.54,356.94,396.6
+ORD-1137,2025-07-18,CUST-1053,Small Business,East,Assam,Guwahati,Online,Furniture,Tables,Study Table,6,4178.02,0.12,22059.95,17547.68,4512.27
+ORD-1138,2025-07-17,CUST-1037,Consumer,East,Assam,Guwahati,Corporate Sales,Technology,Accessories,USB-C Cable,2,616.7,0.05,1171.73,592.03,579.7
+ORD-1139,2025-12-02,CUST-1085,Consumer,East,Assam,Guwahati,Retail Store,Technology,Accessories,Power Bank,3,1957.14,0.12,5166.85,3522.85,1644.0
+ORD-1140,2025-12-26,CUST-1068,Consumer,South,Telangana,Hyderabad,Retail Store,Technology,Computers,Laptop,2,50885.04,0.15,86504.57,87522.27,-1017.7
+ORD-1141,2025-09-06,CUST-1025,Consumer,North,Delhi,New Delhi,Online,Technology,Phones,Smartphone,3,25011.14,0.1,67530.08,54024.06,13506.02
+ORD-1142,2025-03-09,CUST-1077,Consumer,North,Haryana,Gurugram,Online,Office Supplies,Desk Supplies,Stapler,8,86.12,0.05,654.51,310.03,344.48
+ORD-1143,2025-12-13,CUST-1031,Corporate,East,Assam,Guwahati,Online,Office Supplies,Writing,Ball Pen Pack,4,97.14,0.15,330.28,147.65,182.63
+ORD-1144,2025-08-29,CUST-1025,Consumer,East,Odisha,Bhubaneswar,Corporate Sales,Furniture,Tables,Office Desk,7,13747.01,0.15,81794.71,71209.51,10585.2
+ORD-1145,2025-04-13,CUST-1078,Consumer,West,Maharashtra,Mumbai,Online,Furniture,Tables,Study Table,2,4940.25,0.15,8398.42,6916.35,1482.07
+ORD-1146,2025-03-24,CUST-1035,Consumer,East,West Bengal,Kolkata,Online,Furniture,Chairs,Visitor Chair,6,3274.85,0.08,18077.17,12575.42,5501.75
+ORD-1147,2025-01-28,CUST-1051,Consumer,North,Chandigarh,Chandigarh,Online,Technology,Phones,Smartphone,3,25446.61,0.15,64888.86,54964.68,9924.18
+ORD-1148,2025-11-29,CUST-1043,Small Business,North,Delhi,New Delhi,Online,Office Supplies,Writing,Ball Pen Pack,8,113.83,0,910.64,346.04,564.6
+ORD-1149,2025-02-10,CUST-1003,Consumer,North,Delhi,New Delhi,Retail Store,Office Supplies,Desk Supplies,Desk Organizer,2,443.9,0.02,870.04,443.9,426.14
+ORD-1150,2025-06-04,CUST-1016,Consumer,South,Telangana,Hyderabad,Retail Store,Furniture,Chairs,Office Chair,8,7362.72,0,58901.76,40053.2,18848.56
